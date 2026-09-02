@@ -4,20 +4,7 @@
   ***
    **
     *
-Sample Test Cases:
-Input 1:
-
-Output 1:
-*****
- ****
-  ***
-   **
-    *
-
-Input 2:
-
-Output 2:
-Note: Spaces indicate indentation.*/
+ */
 #include<stdio.h>
 int main()
 {
